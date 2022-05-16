@@ -1,2 +1,3 @@
 # Linux
-Notes of Everything I learn about Linux
+Linux Concepts Notes & resources to look back for revision purposes
+
